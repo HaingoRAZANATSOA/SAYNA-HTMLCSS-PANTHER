@@ -1,0 +1,70 @@
+@font-face {
+    font-family: Panthera;
+    src: url(Fonts/PantheraRegular-MVZ9J.ttf);}
+@font-face{font-family:Beyno ;
+    src: url(Fonts/BEYNO.otf);}
+@font-face{font-family: Wakanda;
+    src: url(Fonts/WakandaForever-Regular.ttf);}
+@font-face{font-family: Cantarell;
+    src: url(Fonts/Cantarell-Regular.ttf) ;}
+    
+.navig{font-family: Beyno;
+font-size: 16px;}
+h1{font-family: Panthera;
+font-size: 50px;
+font-weight: 200px;}
+h2{font-family: Beyno;
+font-size: 32px;}
+.para{font-family: Cantarell;
+font-size: 16px;}
+.parag{font-family: Cantarell;
+font-size: 10px;}
+
+header{background-image: url(Assets/Accueil/Pantherhome1.png);
+height: 800px;}
+
+body{background-image: url(Assets/All-pages/arrière_plan.png);}
+
+.logo-header{display: flex;
+    justify-content: space-around; 
+    width: 5%;
+    margin-left: 100px;}
+.lsayna{margin-top: 20px;
+width: 50px;}
+.ix{margin-top: 30px;}
+.imarvel{margin-top: 20px;
+width: 30px;}
+
+.navig{display: flex;
+justify-content: space-around;
+width: 20%;
+margin-left: 1000px;
+margin-top: -50px;}
+
+.reseau-sociaux{margin-top: 200px;
+margin-left: 30px;}
+.place{ position: fixed;}
+
+.text-header1 { margin-left: 100px;
+margin-right: 600px;}
+.titre{line-height: 10px;}
+
+.boutton-vp button{background-color: transparent;
+color: var(--white);
+border-bottom-color:var(--white);}
+
+.text-header2{background-color: #021740;
+    margin-left: 80px;
+padding-left:250px;
+margin-right: 750px;
+padding-bottom: 50px;}
+
+.text-header3{background-color: #021740;
+margin-left: 800px;
+margin-right: 150px;
+padding-bottom: 100px;
+margin-top: -250px;
+}
+.pant3{position: absolute;}
+
+
